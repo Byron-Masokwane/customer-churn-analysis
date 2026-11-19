@@ -1,6 +1,6 @@
 # Customer Churn Analysis
 
-Analysis of customer churn in the IBM Telco dataset: exploratory analysis, hypothesis testing and a logistic regression model.
+Analysis of customer churn in the IBM Telco dataset: exploratory analysis, hypothesis testing and a logistic regression model. The `customer_churn_analysis.ipynb` notebook displays all the findings.
 
 ## How to run
 
